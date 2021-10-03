@@ -1,3 +1,6 @@
 [submodule "DirectXShaderCompiler"]
 	path = DirectXShaderCompiler
 	url = https://github.com/microsoft/DirectXShaderCompiler
+[submodule "DirectXVideoScreen"]
+	path = DirectXVideoScreen
+	url = https://github.com/mofo7777/DirectXVideoScreen
