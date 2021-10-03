@@ -1,0 +1,4 @@
+[submodule "DirectXShaderCompiler"]
+	path = DirectXShaderCompiler
+	url = https://github.com/microsoft/DirectXShaderCompiler
+	branch = release-1.5.2003.1
