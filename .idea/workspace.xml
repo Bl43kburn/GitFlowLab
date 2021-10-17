@@ -6,7 +6,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e6477d-41ba-4a39-8d5b-c7cddc98b5a8" name="Changes" comment="-two" />
+    <list default="true" id="41e6477d-41ba-4a39-8d5b-c7cddc98b5a8" name="Changes" comment="no">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_17_2021_5_05_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_17_2021_5_05_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_example_WAV_1MG.wav" beforeDir="false" afterPath="$PROJECT_DIR$/file_example_WAV_1MG.wav" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
