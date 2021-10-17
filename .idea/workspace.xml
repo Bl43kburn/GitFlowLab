@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41e6477d-41ba-4a39-8d5b-c7cddc98b5a8" name="Changes" comment="-one">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DirectXShaderCompiler" beforeDir="false" afterPath="$PROJECT_DIR$/DirectXShaderCompiler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_example_WAV_1MG.wav" beforeDir="false" afterPath="$PROJECT_DIR$/file_example_WAV_1MG.wav" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <workItem from="1634323090528" duration="5295000" />
       <workItem from="1634477312541" duration="973000" />
       <workItem from="1634478312574" duration="1355000" />
-      <workItem from="1634479688973" duration="1000" />
+      <workItem from="1634479688973" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="-one">
       <created>1634479627735</created>
